@@ -10,6 +10,8 @@ TicTacToe With Min-Max
 ## Tie
 ![image](https://user-images.githubusercontent.com/88243315/136192643-7692d350-f75a-4894-9ac6-09398fa3a232.png)
 
+****
+
 # CODE
 
 ## Board layout blank 3X3
@@ -21,11 +23,6 @@ TicTacToe With Min-Max
 ![score](https://user-images.githubusercontent.com/88243315/136197386-179a6fce-ef69-4c38-8056-bca0b64571d3.png)
 
 
-
-## Minimizing
-![minimizing](https://user-images.githubusercontent.com/88243315/136213045-48507b85-5655-4bd8-b826-41f70fee361e.png)
-
-## Maximizing
 
 
 
@@ -45,4 +42,13 @@ TicTacToe With Min-Max
 ## CSS for project
 ![CSS](https://user-images.githubusercontent.com/88243315/136213062-8671ae26-0570-4371-85e7-e10b642feb9a.png)
 
+
+## Whole MinMax algorithm code
+![minmax](https://user-images.githubusercontent.com/88243315/136215879-22da6200-33fe-4906-b499-337fb39259b2.png)
+
+## Minimizing
+![minimizing](https://user-images.githubusercontent.com/88243315/136213045-48507b85-5655-4bd8-b826-41f70fee361e.png)
+
+## Maximizing
+![Maximizing](https://user-images.githubusercontent.com/88243315/136215794-d101b8af-1c01-4b4f-b247-055cc1293a2f.png)
 
