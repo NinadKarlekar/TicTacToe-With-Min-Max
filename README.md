@@ -1,5 +1,17 @@
 # TicTacToe-With-Min-Max
-TicTacToe With Min-Max
+
+
+## INDEX
+
+1. [ Basic User interface](# Basic User interface)
+2. [BMI calculator](#BMICalculator)
+3. [Generate Password](#GeneratePassword)
+4. [Number_Game](#NumberGame)
+5. [QR_Code](#QRCode)
+6. [Rock_Paper_Scissors](#RockPaperScissors)
+7. [ColoredText](#ColoredText)
+
+
 
 ## Basic User interface
 ![image](https://user-images.githubusercontent.com/88243315/136192205-757461d4-e682-4ec9-a29f-be16b8c999ec.png)
