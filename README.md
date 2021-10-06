@@ -9,3 +9,6 @@ TicTacToe With Min-Max
 
 ## Tie
 ![image](https://user-images.githubusercontent.com/88243315/136192643-7692d350-f75a-4894-9ac6-09398fa3a232.png)
+
+# CODE
+## Score
