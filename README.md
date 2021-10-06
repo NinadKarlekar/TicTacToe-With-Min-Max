@@ -28,16 +28,16 @@ TicTacToe With Min-Max
 
 ![HumanMove](https://user-images.githubusercontent.com/88243315/136213049-1140a8ff-fbdb-42c0-b080-2a750da241d8.png)
 
-
+Check for horizontal ,vertical and diagonal possible win
 ![horizontal](https://user-images.githubusercontent.com/88243315/136213052-48ed2da6-b2b2-44d6-b941-e3ea07499f05.png)
 
-
+For adding grid lines
 ![4Lines](https://user-images.githubusercontent.com/88243315/136213057-21cb635d-a005-4c0c-939d-630d9bf4a8b4.png)
 
-
+For adding X and O on board
 ![X and O in board](https://user-images.githubusercontent.com/88243315/136213058-4f09851d-6b21-40f2-b6aa-d96a8100568a.png)
 
-
+CSS for project
 ![CSS](https://user-images.githubusercontent.com/88243315/136213062-8671ae26-0570-4371-85e7-e10b642feb9a.png)
 
 
