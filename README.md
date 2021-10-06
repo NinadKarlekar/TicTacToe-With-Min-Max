@@ -52,6 +52,7 @@ there is true because next move is of maximizer
 ![minimizing](https://user-images.githubusercontent.com/88243315/136213045-48507b85-5655-4bd8-b826-41f70fee361e.png)
 
 ## Maximizing
+let score = minimax(board, depth + 1, false);
 there is false because next move is of minimizer
 ![Maximizing](https://user-images.githubusercontent.com/88243315/136215794-d101b8af-1c01-4b4f-b247-055cc1293a2f.png)
 
