@@ -3,9 +3,9 @@
 
 ## INDEX
 
-1. [ Basic User interface](# Basic User interface)
-2. [BMI calculator](#BMICalculator)
-3. [Generate Password](#GeneratePassword)
+1. [Basic User interface](#BasicUserinterface)
+2. [X wins](#Xwins)
+3. [CODE](#CODE)
 4. [Number_Game](#NumberGame)
 5. [QR_Code](#QRCode)
 6. [Rock_Paper_Scissors](#RockPaperScissors)
@@ -13,7 +13,7 @@
 
 
 
-## Basic User interface
+## BasicUserinterface
 ![image](https://user-images.githubusercontent.com/88243315/136192205-757461d4-e682-4ec9-a29f-be16b8c999ec.png)
 
 ## X wins
