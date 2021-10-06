@@ -22,10 +22,14 @@ TicTacToe With Min-Max
 
 
 
-## 
+## Minimizing
 ![minimizing](https://user-images.githubusercontent.com/88243315/136213045-48507b85-5655-4bd8-b826-41f70fee361e.png)
 
-## 
+## Maximizing
+
+
+
+## Human move will be recorded after mousepressing
 ![HumanMove](https://user-images.githubusercontent.com/88243315/136213049-1140a8ff-fbdb-42c0-b080-2a750da241d8.png)
 
 ## Check for horizontal ,vertical and diagonal possible win
