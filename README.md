@@ -11,4 +11,12 @@ TicTacToe With Min-Max
 ![image](https://user-images.githubusercontent.com/88243315/136192643-7692d350-f75a-4894-9ac6-09398fa3a232.png)
 
 # CODE
+
+
+
+
 ## Score
+![score](https://user-images.githubusercontent.com/88243315/136197386-179a6fce-ef69-4c38-8056-bca0b64571d3.png)
+
+
+![minmax](https://user-images.githubusercontent.com/88243315/136197484-74b51450-04d8-4d7b-9403-88088221267a.png)
