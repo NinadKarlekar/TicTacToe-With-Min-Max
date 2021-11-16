@@ -53,7 +53,7 @@ function minimax(board, depth, isMaximizing) {
                 // Is the spot available?
                 if (board[i][j] == '') {
                     board[i][j] = human;
-                    let score = minimax(board, depth + 1, true);
+                    let score = minimax(board, depth + 1, true); //there is true because next move is of maximizer
                     board[i][j] = '';
                     bestScore = min(score, bestScore);
                 }

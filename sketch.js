@@ -82,11 +82,13 @@ function draw() {
   background(255);
   strokeWeight(4);
 
+//For adding grid lines
   line(w, 0, w, height);
   line(w * 2, 0, w * 2, height);
   line(0, h, width, h);
   line(0, h * 2, width, h * 2);
 
+  //draw x and o
   for (let j = 0; j < 3; j++) {
     for (let i = 0; i < 3; i++) {
       let x = w * i + w / 2;
@@ -104,6 +106,7 @@ function draw() {
     }
   }
 
+  //endtext
   let result = checkWinner();
   if (result != null) {
     noLoop();
